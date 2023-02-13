@@ -25,11 +25,12 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
+- [CMG Frags](https://discord.gg/cmgfrags) *(FiveM Fragging server)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
 - [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server)*
 - [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server)*
