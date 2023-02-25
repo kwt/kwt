@@ -22,29 +22,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
 </p>
 
-<h2 align="center">current projects</h2>
-
-(Newest -> Oldest)
-- [CMG Frags](https://discord.gg/cmgfrags) *(FiveM Fragging server)*
-
-<h2 align="center">past projects</h2>
-
-(Newest -> Oldest)
-- [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
-- [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
-- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server)*
-- [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server)*
-- [GBRP](https://discord.io/gbrpfivem) *(FiveM Semi-RP/Fragging server)*
-- [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx) *(Discord Selfbot containing many features with an authorisation system built in)*
-- [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x) *(Database Search Engine bot through discord using LeakCheck API)*
-- [Fortnite Tracker](https://discord.ly/cnr-tracker) *(Fortnite Stats Tracker bot through discord using fortnitetracker.com API)*
-- [Discord Delete DMs](https://github.com/menstruated/discord-delete-dms) *(Small python utility to delete discord dms via a discord Token)*
-- [Mitsuki selfbot](https://discord.gg/7mv5RKKcNx) *(The original version of my Mitsuki selfbot)*
-- NameMC Friend Adder *(Program to mass add friends on the website namemc.com to attain profile views)*
-- capeChecker *(A python script I made to mass check usernames for minecraft accounts to view which have capes for other processes)*
-- sniper.lol *(A minecraft name sniper)*
-- dbSearch *(The original version of my database search engine, used WeLeakInfo API)*
-
 <h2 align="center">contact</h2>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Suck%20your%20mum)](https://discord.com/users/609044650019258407)
