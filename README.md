@@ -30,7 +30,7 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- [CMG Frags](https://discord.gg/cmgfrags) *(FiveM Fragging server)*
+- [CMG Frags](https://github.com/CMG-Frags) *(FiveM Fragging server)*
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
 - [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server)*
 - [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server)*
