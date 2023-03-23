@@ -4,6 +4,7 @@
 - 20
 - cybersec student
 - united kingdom
+- freelance developer in various languages
 
 <p align="center">
 <a href="https://twitter.com/c123786/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
