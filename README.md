@@ -1,7 +1,7 @@
 <h1>cnr</h1>
 
 - connor
-- 20
+- 21
 - cybersec student
 - united kingdom
 - freelance developer in various languages
