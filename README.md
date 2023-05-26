@@ -26,7 +26,7 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
+- [ARMA](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
 
 <h2 align="center">past projects</h2>
 
