@@ -50,4 +50,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfbars&hide_border=true&card_width=338&theme=transparent" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfbars&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /></p>
 <img src="https://komarev.com/ghpvc/?username=elfbars&color=lightgray" alt="fax" width="" height="">
+<p align="center">
+<img alt="gengar" src="https://media.tenor.com/rcuxuxJjDcoAAAAC/pok%C3%A9mon-gengar.gif">
+</p>
 
