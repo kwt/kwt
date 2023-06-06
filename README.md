@@ -32,14 +32,8 @@
 
 (Newest -> Oldest)
 - [Server Files](https://github.com/elfbars/Server-Files) *(FiveM Server Files for the majority of UK Semi RP/Fragging servers)*
-- [CMG Frags](https://github.com/CMG-Frags) *(FiveM Fragging server)*
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
-- [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server)*
-- [Fortnite Tracker](https://discord.ly/cnr-tracker) *(Fortnite Stats Tracker bot through discord using fortnitetracker.com API)*
 - [Discord Delete DMs](https://github.com/elfbars/discord-delete-dms) *(Small python utility to delete discord dms via a discord Token)*
-- NameMC Friend Adder *(Program to mass add friends on the website namemc.com to attain profile views)*
-- capeChecker *(Mass check usernames for minecraft accounts to view which have capes)*
-- sniper.lol *(A minecraft name sniper)*
 - dbSearch *(database search engine, using WeLeakInfo API)*
 <h2 align="center">contact</h2>
 
