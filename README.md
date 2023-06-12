@@ -39,7 +39,6 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20asleep)](https://discord.com/users/609044650019258407)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfbars&count_private=true&show_icons=true&theme=dracula)
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elfbars&theme=transparent" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfbars&hide_border=true&card_width=338&theme=transparent" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfbars&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /></p>
