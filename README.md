@@ -7,11 +7,7 @@
 - freelance developer in various languages
 
 <p align="center">
-<a href="https://twitter.com/c123786/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
-  <a href="https://instagr.am/connuhs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
 <a href="https://t.me/squirted/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="20" width="20" /></a>
-  <a href="https://twitch.tv/cnr1337/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
-<a href="https://youtube.com/cnr69/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 </p>
 
 <h2 align="center">langs</h2>
