@@ -23,14 +23,12 @@
 
 (Newest -> Oldest)
 - [ARMA](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
+- [Warfare](https://discord.gg/warfarecc) *(FiveM GTA Life/CMG mixed server)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
 - [Server Files](https://github.com/elfbars/Server-Files) *(FiveM Server Files for the majority of UK Semi RP/Fragging servers)*
-- [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
-- [Discord Delete DMs](https://github.com/elfbars/discord-delete-dms) *(Small python utility to delete discord dms via a discord Token)*
-- dbSearch *(database search engine, using WeLeakInfo API)*
 <h2 align="center">contact</h2>
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elfbars&theme=transparent" />
