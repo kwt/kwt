@@ -23,7 +23,6 @@
 
 (Newest -> Oldest)
 - [ARMA](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
-- [Warfare](https://discord.gg/warfarecc) *(FiveM GTA Life/CMG mixed server)*
 
 <h2 align="center">past projects</h2>
 
