@@ -24,10 +24,6 @@
 (Newest -> Oldest)
 - [ARMA](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
 
-<h2 align="center">past projects</h2>
-
-(Newest -> Oldest)
-- [Server Files](https://github.com/kwt/Server-Files) *(FiveM Server Files for the majority of UK Semi RP/Fragging servers)*
 <h2 align="center">contact</h2>
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwt&theme=transparent" />
