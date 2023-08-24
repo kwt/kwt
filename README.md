@@ -1,7 +1,5 @@
 <h1>cnr</h1>
 
-currently in a call with this broke faggot
-
 - connor
 - 21
 - cybersec student
