@@ -2,7 +2,7 @@
 
 - connor
 - 23
-- cybersec student
+- cybersec graduate
 - united kingdom
 - freelance developer in various languages
 
@@ -19,7 +19,7 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [ARMA](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
+- [ARMA](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)* 2022-2025
 
 <h2 align="center">stats</h2>
 
